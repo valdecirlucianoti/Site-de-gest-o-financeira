@@ -1,4 +1,4 @@
-# Programa de Vendas de Leitura online e Download de livros
+# Programa de Gestão financeira
 
 Projeto pessoal
 
